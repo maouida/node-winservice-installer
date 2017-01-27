@@ -1,0 +1,1 @@
+A helper utility to install/uninstall node apps as windows service using node-windows module.

@@ -1,0 +1,14 @@
+{
+    "name": "node-winservice-installer",
+    "version": "1.0.0",
+    "description": "",
+    "main": "install.js",
+    "scripts": {
+        "start": "node install.js"
+    },
+    "author": "Marwan Aouida",
+    "license": "ISC",
+    "dependencies": {
+        "node-windows": "^0.1.12"
+    }
+}
